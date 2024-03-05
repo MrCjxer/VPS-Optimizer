@@ -47,7 +47,3 @@ wget -N https://raw.githubusercontent.com/MrCjxer/VPS-Optimizer/main/Install/udp
 ---------------------------------------------------------------------------------------------------------------------------------------
 ### Credits
  - credited by [OPIran](https://github.com/opiran-club)
-
-### Contacts
- - Visit Me at [OPIran-Gap](https://t.me/opiranclub)
-
