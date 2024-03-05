@@ -15,7 +15,7 @@ Supported Debian base (Debian , Ubuntu) with X86 & Arm64 & OpenVZ architecture
 #### 👉 Debian Base (Ubuntu & Debian) x86 & Arm64
    
 ```
-apt install curl -y && bash <(curl -s https://raw.githubusercontent.com/opiran-club/VPS-Optimizer/main/optimizer.sh --ipv4)
+apt install curl -y && bash <(curl -s https://raw.githubusercontent.com/MrCjxer/VPS-Optimizer/main/optimizer.sh --ipv4)
 ```
 
 ---------------------------------------------------------------------------------------------------------------------------------------
